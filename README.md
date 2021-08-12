@@ -27,3 +27,11 @@ git checkout variante
 git checkout master
 
 git push -u origin variante
+
+git tag -a tag-1 -m "Tag--1"
+
+git tag
+
+git show tag-1
+
+git push origin --tags
