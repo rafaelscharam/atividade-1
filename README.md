@@ -19,3 +19,11 @@ git remote add origin https://github.com/rafaelscharam/atividade-1.git
 git push -u origin master
 
 git pull
+
+git checkout -b variante
+
+git checkout variante
+
+git checkout master
+
+git push -u origin variante
